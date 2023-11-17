@@ -37,7 +37,7 @@ void loop()
     }
     else
     {
-      lcd.print("202200000");
+      lcd.print("202249731");
       toggle = true;
     }
     delay(2000);
